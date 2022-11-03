@@ -11,4 +11,3 @@ df.loc[df['sex'] == 'f', 'age'].mean()
 =======
 df.loc[df['sex'] == 'm', 'age'].mean()
 >>>>>>> branch_1
-12.
